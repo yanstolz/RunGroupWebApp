@@ -1,4 +1,4 @@
-﻿using RunGroopWebApp.Data.Enum;
+﻿using RunGroupWebApp.Data.Enum;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
